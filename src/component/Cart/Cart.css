@@ -1,0 +1,18 @@
+.cart {
+    background-color: #FF99004D;
+    padding: 25px;
+    position: sticky;
+    top: 0;
+}
+
+.cart-summary {
+    font-weight: 400;
+    font-size: 25px;
+    margin-top: 0px;
+}
+
+.grand-total {
+    color: #0E161A;
+    font-weight: 500;
+    font-size: 18px;
+}
