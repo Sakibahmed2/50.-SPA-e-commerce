@@ -1,0 +1,50 @@
+.review-contaner {
+    width: 570px;
+    border: 2px solid gray;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    padding: 8px;
+    display: flex;
+    align-items: center;
+}
+
+.review-info {
+    flex-grow: 1;
+}
+
+.review-info p {
+    margin: 0 10px;
+}
+
+.review-contaner .title {
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 25px;
+    letter-spacing: 0.0015em;
+}
+
+.review-contaner img {
+    width: 91px;
+    border-radius: 10px;
+}
+
+.review-info .price {
+    color: #FF9900;
+}
+
+.btn-delate {
+    height: 55px;
+    width: 55px;
+    background: rgba(235, 87, 87, 0.3);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+}
+
+.delete-icon{
+    color:#EB5757;
+    height: 31px;
+    
+}

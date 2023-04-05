@@ -36,11 +36,13 @@
 
 .btn-cart {
     width: 100%;
+    font-size: 17px;
     background: #FFE0B3;
     border: 1px solid #95A0A7;
     border-radius: 0px 0px 8px 8px;
     position: absolute;
     bottom: 0;
+    padding: 10px 0;
 }
 .product button:hover{
     background-color: #ffc062;
